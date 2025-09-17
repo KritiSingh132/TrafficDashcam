@@ -49,8 +49,8 @@ Follow these steps to set up your development environment and run the project lo
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/flutter_traffic_dashcam.git
-   cd flutter_traffic_dashcam
+   git clone https://github.com/yourusername/TrafficDashcam.git
+   cd TrafficDashcam
    ```
 
 2. **Install Flutter**
