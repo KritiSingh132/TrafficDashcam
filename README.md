@@ -1,16 +1,5 @@
 # Flutter Traffic Dashcam
 
-## Screenshots
-
-Below are some screenshots demonstrating key features and recent changes. Please ensure new screenshots are added to the `screenshots/` folder and referenced here with descriptive captions.
-
-| Home Screen                        | Video Playback                     | Extracted Text View                |
-|-------------------------------------|------------------------------------|------------------------------------|
-| **Home screen with video list**     | **Playing a recorded dashcam video** | **Viewing extracted text from video** |
-| ![Home Screen](screenshots/home-screen.png) | ![Video Playback](screenshots/video-playback.png) | ![Extracted Text](screenshots/extracted-text.png) |
-
----
-
 ## Project Description
 
 Flutter Traffic Dashcam is a mobile application that allows users to record dashcam videos, manage their recordings, and extract text from video frames using OCR. The app is built with Flutter and leverages Hive for local data storage.
